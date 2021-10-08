@@ -78,10 +78,10 @@ in exactly the same way as normal functions: when you call a component function,
 logic again and you get a new copy of its return value. -->
 
 ```javascript
-function ShoppingList() {
+function ShoppingList(props) {
   return (
     <div className="shopping-list">
-      <h1>Shopping List for {this.props.name}</h1>
+      <h1>Shopping List for {props.name}</h1>
       <ul>
         <li>Instagram</li>
         <li>WhatsApp</li>
