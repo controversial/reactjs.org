@@ -543,7 +543,7 @@ We will call `calculateWinner(squareValues)` in the Board's `render` function to
 
 We can now change the Board's `handleClick` function to ignore a click (by returning early) if someone has won the game or if a Square is already filled:
 
-```javascript{3-5}
+```javascript{3-4}
   const handleClick = (i) => {
     const newSquareValues = squareValues.slice();
     // Return early if someone has won or if a square is filled
