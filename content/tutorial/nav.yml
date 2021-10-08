@@ -72,32 +72,7 @@
           title: Declaring a Winner
           href: /tutorial/tutorial.html#declaring-a-winner
           forceInternal: true
-    - id: adding-time-travel
-      title: Adding Time Travel
-      href: /tutorial/tutorial.html#adding-time-travel
+    - id: wrapping-up
+      title: Wrapping Up
+      href: /tutorial/tutorial.html#wrapping-up
       forceInternal: true
-      subitems:
-        - id: storing-a-history-of-moves
-          title: Storing a History of Moves
-          href: /tutorial/tutorial.html#storing-a-history-of-moves
-          forceInternal: true
-        - id: lifting-state-up-again
-          title: Lifting State Up, Again
-          href: /tutorial/tutorial.html#lifting-state-up-again
-          forceInternal: true
-        - id: showing-the-past-moves
-          title: Showing the Past Moves
-          href: /tutorial/tutorial.html#showing-the-past-moves
-          forceInternal: true
-        - id: picking-a-key
-          title: Picking a Key
-          href: /tutorial/tutorial.html#picking-a-key
-          forceInternal: true
-        - id: implementing-time-travel
-          title: Implementing Time Travel
-          href: /tutorial/tutorial.html#implementing-time-travel
-          forceInternal: true
-        - id: wrapping-up
-          title: Wrapping Up
-          href: /tutorial/tutorial.html#wrapping-up
-          forceInternal: true
