@@ -24,7 +24,7 @@ We will build a small game during this tutorial. **You might be tempted to skip 
 
 >Tip
 >
->This tutorial is designed for people who prefer to **learn by doing**. If you prefer learning concepts from the ground up, check out our [step-by-step guide](/docs/hello-world.html). You might find this tutorial and the guide complementary to each other.
+>This tutorial is designed for people who prefer to **learn by doing**. If you prefer learning concepts from the ground up, you might find the official [step-by-step guide](reactjs.org/docs/hello-world.html) helpful. This tutorial and the guide can also be taken as complementary to each other.
 
 The tutorial is divided into several sections:
 
@@ -108,7 +108,7 @@ return React.createElement('div', {className: 'shopping-list'},
 );
 ```
 
-If you're curious, `createElement()` is described in more detail in the [API reference](/docs/react-api.html#createelement), but we won't be using it in this tutorial. Instead, we will keep using JSX.
+If you're curious, `createElement()` is described in more detail in the [API reference](https://reactjs.org/docs/react-api.html#createelement), but we won't be using it in this tutorial. Instead, we will keep using JSX.
 
 JSX comes with the full power of JavaScript. You can put *any* JavaScript expressions within braces inside JSX. And each React element returned by a call to `createElement` is a JavaScript object that you can store in a variable or pass around in your program.
 
